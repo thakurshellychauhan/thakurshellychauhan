@@ -1,4 +1,3 @@
-![logo](https://github.com/thakurshellychauhan/thakurshellychauhan/blob/main/banner%203.jpg)
 preview
 <h1 align="center">Hi 👋, I'm Shelly Chauhan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
