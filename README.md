@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shelly-chauhan-19440a297](https://www.linkedin.com/in/shelly-chauhan-19440a297)
 
-- 📫 How to reach me **cshelly767@gmail.com**
+- 📫 How to reach me **shellychauhan1318@gmail.com**
 
 - ⚡ Fun fact **I am Funny😅**
 
